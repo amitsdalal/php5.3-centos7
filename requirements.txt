@@ -1,0 +1,2 @@
+yum install -y bzip2-devel curl-devel gmp-devel httpd-devel libstdc++-devel openssl-devel sqlite-devel zlib-devel libtool gcc-c++ krb5-devel cyrus-sasl-devel openldap-devel mysql-devel postgresql-devel unixODBC-devel libxml2-devel net-snmp-devel libxslt-devel libxml2-devel libjpeg-devel libpng-devel freetype-devel libXpm-devel libicu-devel
+
